@@ -1,8 +1,5 @@
 # Car Vibration Model
 
-![Repository Logo](image.png)
-
-
 This repository contains MATLAB code for simulating the dynamic response of a car model to road-induced vibrations. The model considers a combination of translational and rotational dynamics, as well as the effects of suspension and road profile influences.
 
 ---
@@ -50,6 +47,8 @@ The script includes two main scenarios:
 ---
 
 ## Parameters
+
+![Repository Logo](image.png)
 
 You can modify the following parameters in the script:
 
