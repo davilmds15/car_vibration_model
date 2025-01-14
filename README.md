@@ -82,5 +82,4 @@ The script generates the following plots:
 
 - **Name**: Davi Lima Mendes dos Santos  
 - **University**: Universidade Federal de Santa Maria  
-- **Course**: Dinâmica de Estruturas e Aeroelasticidade  
-- **Matrícula**: 202012282  
+- **Course**: Dinâmica de Estruturas e Aeroelasticidade    
